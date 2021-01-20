@@ -1,0 +1,13 @@
+C:\Users\Ninja\source\repos\LearningFundamental\bin\Debug\netcoreapp3.1\LearningFundamental.exe
+C:\Users\Ninja\source\repos\LearningFundamental\bin\Debug\netcoreapp3.1\LearningFundamental.deps.json
+C:\Users\Ninja\source\repos\LearningFundamental\bin\Debug\netcoreapp3.1\LearningFundamental.runtimeconfig.json
+C:\Users\Ninja\source\repos\LearningFundamental\bin\Debug\netcoreapp3.1\LearningFundamental.runtimeconfig.dev.json
+C:\Users\Ninja\source\repos\LearningFundamental\bin\Debug\netcoreapp3.1\LearningFundamental.dll
+C:\Users\Ninja\source\repos\LearningFundamental\bin\Debug\netcoreapp3.1\LearningFundamental.pdb
+C:\Users\Ninja\source\repos\LearningFundamental\obj\Debug\netcoreapp3.1\LearningFundamental.csprojAssemblyReference.cache
+C:\Users\Ninja\source\repos\LearningFundamental\obj\Debug\netcoreapp3.1\LearningFundamental.AssemblyInfoInputs.cache
+C:\Users\Ninja\source\repos\LearningFundamental\obj\Debug\netcoreapp3.1\LearningFundamental.AssemblyInfo.cs
+C:\Users\Ninja\source\repos\LearningFundamental\obj\Debug\netcoreapp3.1\LearningFundamental.csproj.CoreCompileInputs.cache
+C:\Users\Ninja\source\repos\LearningFundamental\obj\Debug\netcoreapp3.1\LearningFundamental.dll
+C:\Users\Ninja\source\repos\LearningFundamental\obj\Debug\netcoreapp3.1\LearningFundamental.pdb
+C:\Users\Ninja\source\repos\LearningFundamental\obj\Debug\netcoreapp3.1\LearningFundamental.genruntimeconfig.cache
